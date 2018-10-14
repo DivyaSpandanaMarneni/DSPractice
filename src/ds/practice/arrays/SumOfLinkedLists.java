@@ -1,6 +1,5 @@
 package ds.practice.arrays;
 
-import java.math.BigInteger;
 import java.util.LinkedList;
 import java.util.Stack;
 
